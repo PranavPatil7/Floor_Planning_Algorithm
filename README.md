@@ -2,7 +2,7 @@
 
 Implementation of [_"Floorplan Design of VLSI Circuits"_](https://eecs.wsu.edu/~daehyun/teaching/2014_EE582/papers/fl-polish.pdf).
 
-This code is part of the final project from [Algorithms for AVLSI](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/AVLSI-MIRI) subject (master's degree in computer science from UPC).
+
 
 ![Floorplan gif](./demo.gif)
 
@@ -99,7 +99,3 @@ $ cabal run floorplanning -- -f "examples/example_20_modules"
 - `slides` contains the sources for the presentation.
 - `examples` contains some examples to test the application.
 - `nix` contains the sources for the nix building tool.
-
-## Future Work
-
-The second part, L-Shapes modules, is not implemented.
